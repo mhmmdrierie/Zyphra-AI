@@ -51,7 +51,7 @@
      if (!m.text) return
        try {
         let logic = `${sifat}`
-         const url = 'https://lumin-ai.xyz';
+         const url = 'hhttps://luminai.my.id';
           const data = {
           content: m.text,
           pengguna: sender,
